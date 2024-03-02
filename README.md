@@ -10,6 +10,7 @@ Exemplo: Detalhes de um livro.
 Endpoints
 
 /livros
+
 POST:
 
 Adiciona um novo livro à coleção.
