@@ -1,4 +1,4 @@
-A API de Gerenciamento de Livros oferece funcionalidades para gerenciar uma coleção de livros. Desenvolvida em RAML 1.0, utiliza o media type application/json. O design da API foi realizado com MuleSoft, as configurações de fluxos foram feitas através do Anypoint Studio, e os dados são armazenados eficientemente no MySQL.
+A API de Gerenciamento de Livros oferece funcionalidades para gerenciar uma coleção de livros. Desenvolvida em RAML O design da API foi realizado com MuleSoft, as configurações de fluxos foram feitas através do Anypoint Studio, e os dados são armazenados eficientemente no MySQL.
 
 Endpoints
 
