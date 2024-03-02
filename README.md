@@ -39,6 +39,7 @@ DELETE:
 Descrição: Exclui um livro da coleção.
 Respostas:
 204: {"mensagem": "Livro excluído com sucesso."}
+
 Explore esta API para adicionar, listar, visualizar, atualizar e excluir livros de sua coleção. Utilize as operações disponíveis de forma eficiente para gerenciar sua biblioteca pessoal, com o design feito no MuleSoft e configurações de fluxos no Anypoint Studio, garantindo um fluxo de dados consistente e seguro.
 
 
