@@ -12,10 +12,10 @@ GET:
 Obtém um livro específico pelo seu nome.
 
 PUT:
-Descrição: Atualiza informações de um livro existente.
+Atualiza informações de um livro existente.
 
 DELETE:
-Descrição: Exclui um livro da coleção.
+Exclui um livro da coleção.
 
 Explore esta API para adicionar, listar, visualizar, atualizar e excluir livros de sua coleção. Utilize as operações disponíveis de forma eficiente para gerenciar sua biblioteca pessoal, com o design feito no MuleSoft e configurações de fluxos no Anypoint Studio, garantindo um fluxo de dados consistente e seguro.
 
